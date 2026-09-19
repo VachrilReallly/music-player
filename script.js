@@ -347,7 +347,7 @@ let songs = [
             { time: 11, text: "But I'm still in love with Judas, baby" },
             { time: 13, text: "Just a holy fool, oh, baby, it's so cruel" },
             { time: 18, text: "But I'm still in love with Judas, baby" },
-           
+
         ]
     },
     {
