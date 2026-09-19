@@ -393,7 +393,7 @@ let songs = [
         title: "Sailor song",
         artist: "Gigi perez",
         album: "Gigi perez",
-        albumArtUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYfv7xOnOHyom-_zF8dSlS-qJ1dPECQjBcgfcLIyPNlUIa5lz0-qpDY5TF&s=10",
+        albumArtUrl: "https://cdn.phototourl.com/free/2026-09-19-48676b50-ff12-428d-93dc-931b2bcf802d.jpg",
         audioSrc: "audio/Sailor song.mp3",
         videoBgSrc: "videos/Sailor song.mp4",
         lyrics: [
