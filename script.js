@@ -388,6 +388,29 @@ let songs = [
 
         ]
     },
+     {
+        id: 10,
+        title: "Sailor song",
+        artist: "Gigi perez",
+        album: "Gigi perez",
+        albumArtUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYfv7xOnOHyom-_zF8dSlS-qJ1dPECQjBcgfcLIyPNlUIa5lz0-qpDY5TF&s=10",
+        audioSrc: "audio/Sailor song.mp3",
+        videoBgSrc: "videos/Sailor song.mp4",
+        lyrics: [
+              { time: 0,  text: "And maybe I tried other things" },
+              { time: 5,  text: "But nothing can capture the sting" },
+              { time: 10,  text: "Of the venom she's gonna spit out right now" },
+              { time: 19, text: "Oh, won't you kiss me on the mouth and love me like a sailor?  " },
+              { time: 24,  text: "When you get a taste, can you tell me what's my flavor?" },
+              { time: 30,  text: "I don't believe in God, but I believe that you're my savior" },
+              { time: 36, text: "I know that you've been worried, but you're dripping in my favor" },
+              { time: 40,  text: "And when we're getting dirty, I forget all that is wrong" },
+              { time: 46,  text: "I sleep so I can see you 'cause I hate to wait so long" },
+              { time: 51, text: "I sleep so that I can see you and I hate to wait so long" },
+
+
+        ]
+    },
 ];
 
 let currentSongIndex = 0;
