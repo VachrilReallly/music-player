@@ -411,6 +411,22 @@ let songs = [
 
         ]
     },
+    {
+        id: 11,
+        title: "Cigarettes after sex",
+        artist: "Appocalypse",
+        album: "Appocalypse",
+        albumArtUrl: "https://cdn.phototourl.com/free/2026-09-19-310a3e5f-5bd1-4f64-8795-d491b4a1ba23.jpg",
+        audioSrc: "audio/after.mp3",
+        videoBgSrc: "videos/after.mp4",
+        lyrics: [
+             { time: 0,  text: "Ohhh ohhhh" },
+              { time: 4,  text: "When you’re all alone" },
+              { time: 9,  text: "I will reach for you" },
+              { time: 14,  text: "When you’re feeling low" },
+              { time: 19, text: "I will be there too" },    
+        ]
+    },
 ];
 
 let currentSongIndex = 0;
