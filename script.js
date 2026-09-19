@@ -338,8 +338,8 @@ let songs = [
         artist: "Lady gaga", 
         album: "Lady gaga",
         albumArtUrl: "https://hips.hearstapps.com/hmg-prod/images/03-lg-select-1539119996.jpg?crop=1xw:1xh;center,top&resize=980:*", 
-        audioSrc: "audio/Judas.mp3",
-        videoBgSrc: "videos/Judas.mp4",
+        audioSrc: "audio/judas.mp3",
+        videoBgSrc: "videos/judas.mp4",
         lyrics: [
             { time: 0, text: "And Judas is the demon I cling to" },
             { time: 6, text: "I cling to" },
