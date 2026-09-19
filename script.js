@@ -372,6 +372,22 @@ let songs = [
 
         ]
     },
+     {
+        id: 9,
+        title: "Stand by me",
+        artist: "Oasis",
+        album: "Oasis.",
+        albumArtUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnQfWzEcs1ies3TR7Roj8DeacD_D6IZpCE8JJeXbZh547NmMUWeEGRFGix_N-tMPVJmoOsJAmptY-wcFVVeRjLNmOYaLMnwj0TErAmtQ&s=10",
+        audioSrc: "audio/Oasis.mp3",
+        videoBgSrc: "videos/Oasis.mp4",
+        lyrics: [
+              { time: 0,  text: "If you're leaving will you take me with you?" },
+              { time: 5,  text: "I'm tired of talking on my phone" },
+              { time: 12,  text: "There is one thing I can never give you" },
+              { time: 16, text: "My heart will never be your home" },
+
+        ]
+    },
 ];
 
 let currentSongIndex = 0;
